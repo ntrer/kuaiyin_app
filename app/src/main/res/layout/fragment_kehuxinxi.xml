@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dp_30"
+    android:layout_marginLeft="@dimen/dp_30"
+    android:layout_marginRight="@dimen/dp_30"
+    android:background="@color/color_w"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:id="@+id/first"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/dp_10"
+        android:layout_marginLeft="@dimen/dp_20"
+        android:layout_marginRight="@dimen/dp_20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="生日"
+            android:textSize="@dimen/sp_12"
+            android:textStyle="bold"
+            android:textColor="@color/textColor5"
+            />
+
+        <TextView
+            android:id="@+id/shengri"
+            android:layout_alignParentEnd="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1993-08-10"
+            android:textSize="@dimen/sp_12"
+            android:textStyle="bold"
+            android:textColor="@color/textColor6"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="@dimen/dp_20"
+        android:layout_marginRight="@dimen/dp_20"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="微信号"
+            android:textSize="@dimen/sp_12"
+            android:textStyle="bold"
+            android:textColor="@color/textColor5"
+            />
+
+        <TextView
+            android:id="@+id/weixinhao"
+            android:layout_alignParentEnd="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="yangdong"
+            android:textSize="@dimen/sp_12"
+            android:textStyle="bold"
+            android:textColor="@color/textColor6"
+            />
+
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="@dimen/dp_20"
+        android:layout_marginRight="@dimen/dp_20"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="小区地址"
+            android:textSize="@dimen/sp_12"
+            android:textStyle="bold"
+            android:textColor="@color/textColor5"
+            />
+
+        <TextView
+            android:id="@+id/xiaoqudizhi"
+            android:layout_alignParentEnd="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="万达中心720"
+            android:textSize="@dimen/sp_12"
+            android:textStyle="bold"
+            android:textColor="@color/textColor6"
+            />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="@dimen/dp_20"
+        android:layout_marginRight="@dimen/dp_20"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="装修风格"
+            android:textSize="@dimen/sp_12"
+            android:textStyle="bold"
+            android:textColor="@color/textColor5"
+            />
+
+        <TextView
+            android:id="@+id/zhuangxiufengge"
+            android:layout_alignParentEnd="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="欧式简约"
+            android:textSize="@dimen/sp_12"
+            android:textStyle="bold"
+            android:textColor="@color/textColor6"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="@dimen/dp_20"
+        android:layout_marginRight="@dimen/dp_20"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="意向需求"
+            android:textSize="@dimen/sp_12"
+            android:textStyle="bold"
+            android:textColor="@color/textColor5"
+            />
+
+        <TextView
+            android:id="@+id/yixiangxuwqiu"
+            android:layout_alignParentEnd="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="不知道"
+            android:textSize="@dimen/sp_12"
+            android:textStyle="bold"
+            android:textColor="@color/textColor6"
+            />
+
+    </RelativeLayout>
+
+</LinearLayout>

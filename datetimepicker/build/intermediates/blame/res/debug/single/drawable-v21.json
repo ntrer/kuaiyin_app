@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\YD\\.android\\build-cache\\451b288b2d395806355a8a30c92f9284295f24df\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mdtp_material_button_selected.xml",
+        "source": "D:\\Android\\HuaGongProject\\datetimepicker\\src\\main\\res\\drawable-v21\\mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mdtp_material_button_background.xml",
+        "source": "D:\\Android\\HuaGongProject\\datetimepicker\\src\\main\\res\\drawable-v21\\mdtp_material_button_background.xml"
+    }
+]

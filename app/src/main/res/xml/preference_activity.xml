@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><!--最新栏目的新闻-->
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout="@layout/preference_item"
+    android:title="设置">
+
+
+        <Preference
+            android:key="xiugaimima"
+            android:layout="@layout/preference_item"
+            android:summary="修改为自己希望的密码"
+            android:title="修改密码"
+            />
+
+
+        <Preference
+            android:key="update"
+            android:layout="@layout/preference_item"
+            android:summary="升级到最新版本"
+            android:title="检查更新"
+            />
+
+        <Preference
+            android:key="quit"
+            android:layout="@layout/preference_item"
+            android:summary="退出当前账号"
+            android:title="退出登陆"
+            />
+</PreferenceScreen>

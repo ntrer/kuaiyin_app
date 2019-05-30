@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="欢迎来到快引"
+        android:textSize="@dimen/sp_24"
+        android:textStyle="bold"
+        android:textColor="@color/textColor9"
+        android:layout_marginTop="@dimen/dp_60"
+        android:layout_marginLeft="@dimen/dp_60"
+        />
+
+
+    <TextView
+        android:id="@+id/shanghu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="商户"
+        android:textStyle="bold"
+        android:textSize="@dimen/sp_19"
+        android:textColor="@color/textColor8"
+        android:layout_marginTop="@dimen/dp_160"
+        android:layout_marginLeft="@dimen/dp_60"
+
+        />
+
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/txt_shanghu"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/dp_60"
+        android:layout_marginEnd="@dimen/dp_60"
+        android:layout_width="@dimen/dp_345"
+        android:layout_below="@+id/shanghu"
+        android:theme="@style/UpdateUserEditText"
+        android:drawablePadding="@dimen/dp_6"
+        android:hint="请输入商户名"
+        android:textColor="@color/md_black_1000"
+        android:textColorHint="@color/textColor2"
+        android:textSize="@dimen/sp_12"
+        android:layout_height="wrap_content"/>
+
+
+    <TextView
+        android:id="@+id/zhanghao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="账号"
+        android:textStyle="bold"
+        android:layout_below="@+id/txt_shanghu"
+        android:textSize="@dimen/sp_19"
+        android:textColor="@color/textColor8"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_marginLeft="@dimen/dp_60"
+        />
+
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/txt_username"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/dp_60"
+        android:layout_marginEnd="@dimen/dp_60"
+        android:layout_width="@dimen/dp_345"
+        android:layout_below="@+id/zhanghao"
+        android:theme="@style/UpdateUserEditText"
+        android:drawablePadding="@dimen/dp_6"
+        android:hint="请输入用户名"
+        android:textColor="@color/md_black_1000"
+        android:textColorHint="@color/textColor2"
+        android:textSize="@dimen/sp_12"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/mima"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="密码"
+        android:textStyle="bold"
+        android:layout_below="@+id/txt_username"
+        android:textSize="@dimen/sp_19"
+        android:textColor="@color/textColor8"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_marginLeft="@dimen/dp_60"
+        />
+
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/txt_pwd"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/dp_60"
+        android:layout_marginEnd="@dimen/dp_60"
+        android:layout_width="@dimen/dp_345"
+        android:layout_below="@+id/mima"
+        android:theme="@style/UpdateUserEditText"
+        android:drawablePadding="@dimen/dp_6"
+        android:hint="请输入密码"
+        android:textColor="@color/md_black_1000"
+        android:textColorHint="@color/textColor2"
+        android:textSize="@dimen/sp_12"
+        android:layout_height="wrap_content"/>
+
+
+
+    <Button
+        android:id="@+id/login"
+        android:layout_marginTop="@dimen/dp_50"
+        android:layout_marginStart="@dimen/dp_80"
+        android:layout_marginEnd="@dimen/dp_80"
+        android:background="@drawable/btn_border"
+        android:layout_below="@+id/txt_pwd"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_35"
+        android:text="登录"
+        android:textSize="@dimen/sp_15"
+        android:textColor="@color/color_w"
+        />
+
+
+</RelativeLayout>

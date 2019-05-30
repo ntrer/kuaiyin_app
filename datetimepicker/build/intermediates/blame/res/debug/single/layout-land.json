@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\debug\\layout-land\\range_time_picker_dialog.xml",
+        "source": "D:\\Android\\HuaGongProject\\datetimepicker\\src\\main\\res\\layout-land\\range_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\debug\\layout-land\\range_date_picker_dialog.xml",
+        "source": "D:\\Android\\HuaGongProject\\datetimepicker\\src\\main\\res\\layout-land\\range_date_picker_dialog.xml"
+    }
+]

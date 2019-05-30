@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShuShangJiaTui</string>
+    <string name="friend_request_send_ok">请求成功</string>
+    <string name="modify_passowrd_ok">修改成功</string>
+    <string name="confirm">确定</string>
+    <string name="sending_request">请求中...</string>
+    <string name="quit">确定退出登陆吗?</string>
+    <string name="exit_login">退出</string>
+    <string name="cancle">取消</string>
+    <string name="submit">请求中...</string>
+</resources>

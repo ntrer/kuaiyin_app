@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_material_button_background.xml",
+        "source": "D:\\Android\\HuaGongProject\\datetimepicker\\src\\main\\res\\drawable\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\YD\\.android\\build-cache\\451b288b2d395806355a8a30c92f9284295f24df\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "D:\\Android\\HuaGongProject\\datetimepicker\\src\\main\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_material_button_selected.xml",
+        "source": "D:\\Android\\HuaGongProject\\datetimepicker\\src\\main\\res\\drawable\\mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\YD\\.android\\build-cache\\451b288b2d395806355a8a30c92f9284295f24df\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\YD\\.android\\build-cache\\451b288b2d395806355a8a30c92f9284295f24df\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\HuaGongProject\\datetimepicker\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\YD\\.android\\build-cache\\451b288b2d395806355a8a30c92f9284295f24df\\output\\res\\drawable\\notification_icon_background.xml"
+    }
+]
